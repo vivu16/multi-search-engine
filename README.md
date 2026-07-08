@@ -35,13 +35,13 @@ An [Agent Skill](https://agentskills.io/) that routes any Web3 research query to
 ## Install
 
 ```
-https://github.com/Bruce-Wayne777/multi-search-engine/blob/main/SKILL.md
+https://github.com/vivu16/multi-search-engine/blob/main/SKILL.md
 ```
 
 Or fetch raw:
 
 ```bash
-curl -s https://github.com/Bruce-Wayne777/multi-search-engine/blob/main/SKILL.md
+curl -s https://github.com/vivu16/multi-search-engine/blob/main/SKILL.md
 ```
 
 ---
